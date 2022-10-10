@@ -1,0 +1,20 @@
+*{
+    color: black;
+}
+
+
+div {
+    height: 18px;
+    width: 720px;
+    background-color: grey;
+    border-top: solid green 10px;
+    border-left: solid pink 10px;
+    border-bottom: solid green 10px;
+    border-right: solid pink 10px;
+    box-shadow: 10px 10px;
+    margin-bottom: 2rem;
+}
+
+button:hover {
+    color: blue;
+  }
